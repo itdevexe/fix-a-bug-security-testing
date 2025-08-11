@@ -2587,5 +2587,8 @@ img {
         max-width: 300px;
         text-align: center;
     }
+    .gridmask.vertical img{
+        width: 120px;
+    }
 
 }
